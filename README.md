@@ -57,7 +57,7 @@ These were clearly visible in the packet details, proving FTP's lack of encrypti
 
 ![03](https://github.com/user-attachments/assets/22d82ac8-a4d9-4f89-9dbd-86cd17a72956)
 
-![05](https://github.com/user-attachments/assets/a0a5c70d-b4ef-46ba-b4f4-ca1b1cd8223f)
+![06](https://github.com/user-attachments/assets/631ae61a-72e6-4c83-9228-432a7ce5a5ac)
 
 ![01](https://github.com/user-attachments/assets/51d017db-92b7-4cb4-8460-7288c2024784)
 
