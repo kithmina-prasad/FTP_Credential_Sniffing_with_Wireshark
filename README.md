@@ -1,4 +1,4 @@
-# 🕵️‍♂️ FTP Credential Sniffing with Wireshark
+# 🕵️ Exposing FTP Security Vulnerabilities Using Wireshark
 
 This project is part of my Network Security studies. It demonstrates how FTP (File Transfer Protocol), a commonly used but outdated file transfer protocol, exposes sensitive information such as usernames and passwords in plain text. The analysis was performed using **Wireshark**, a powerful packet analysis tool.
 
